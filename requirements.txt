@@ -1,0 +1,9 @@
+streamlit
+selenium
+cryptography
+webdriver-manager
+cryptography
+psutil
+selenium
+streamlit
+webdriver-manager
